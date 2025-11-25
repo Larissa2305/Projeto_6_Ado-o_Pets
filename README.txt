@@ -115,3 +115,4 @@ Este projeto está sob a licença MIT — sinta-se à vontade para usar, modific
 📬 API Resend
 📁 JSON
 🎨 HTML5 UP (template de frontend)
+
